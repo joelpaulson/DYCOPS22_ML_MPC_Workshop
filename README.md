@@ -1,6 +1,6 @@
 # DYCOPS ML and MPC Workshop 2022
 
-This page contains the code associated with the DYCOPS 2022 Workshop titled "The Next Epoch of Model Predictive Control: Exploiting Machine Learning Methods for Approximation and Design". More information about the workshop can be found [here]([https://www.adchem2021.org/workshop-machine-learnin](http://dycops2022.org/gboard/bbs/board.php?bo_table=workshops&wr_id=1&sca=)g).
+This page contains the code associated with the DYCOPS 2022 Workshop titled "The Next Epoch of Model Predictive Control: Exploiting Machine Learning Methods for Approximation and Design". More information about the workshop can be found [here](http://dycops2022.org/gboard/bbs/board.php?bo_table=workshops&wr_id=1&sca=).
 
 The code is written in Matlab and is broken down into 3 parts: 
 1. Learning plant-model mismatch using Gaussian processes;
