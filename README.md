@@ -1,4 +1,4 @@
-# DYCOPS ML and MPC Workshop 2022
+# DYCOPS 2022 ML and MPC Workshop
 
 This page contains the code associated with the DYCOPS 2022 Workshop titled "The Next Epoch of Model Predictive Control: Exploiting Machine Learning Methods for Approximation and Design". More information about the workshop can be found [here](http://dycops2022.org/gboard/bbs/board.php?bo_table=workshops&wr_id=1&sca=).
 
